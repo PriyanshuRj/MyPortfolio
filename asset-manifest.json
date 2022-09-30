@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.3fdfa8f4.css",
+    "main.js": "/MyPortfolio/static/js/main.3ecf470e.js",
+    "static/js/787.a2cb61a6.chunk.js": "/MyPortfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/gym.png": "/MyPortfolio/static/media/gym.b7a4719e0d83b3851be4.png",
+    "static/media/CIFAR.png": "/MyPortfolio/static/media/CIFAR.52cb33562b0b7ef98717.png",
+    "static/media/portfoliopic.jpg": "/MyPortfolio/static/media/portfoliopic.25aab3e6dbcbce97e379.jpg",
+    "static/media/workproject.png": "/MyPortfolio/static/media/workproject.03504c069622f9e71b96.png",
+    "static/media/MNIST.png": "/MyPortfolio/static/media/MNIST.73d5d24b34ccb64283b8.png",
+    "static/media/Blog.png": "/MyPortfolio/static/media/Blog.cb254972860783f70e95.png",
+    "static/media/FASHION.png": "/MyPortfolio/static/media/FASHION.506f7b4dc6530ef5be12.png",
+    "static/media/IQA_VQA.png": "/MyPortfolio/static/media/IQA_VQA.0913f38edf7fe03854c1.png",
+    "static/media/helvetica-neu.ttf": "/MyPortfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/MyPortfolio/static/media/logo_sub.3f37a3abc02635a2d9d4.png",
+    "static/media/LaBelleAurore.woff2": "/MyPortfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/MyPortfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/MyPortfolio/index.html",
+    "main.3fdfa8f4.css.map": "/MyPortfolio/static/css/main.3fdfa8f4.css.map",
+    "main.3ecf470e.js.map": "/MyPortfolio/static/js/main.3ecf470e.js.map",
+    "787.a2cb61a6.chunk.js.map": "/MyPortfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fdfa8f4.css",
+    "static/js/main.3ecf470e.js"
+  ]
+}
