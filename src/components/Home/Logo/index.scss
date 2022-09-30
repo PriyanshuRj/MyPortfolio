@@ -1,0 +1,34 @@
+.logo-container {
+    z-index: 0;
+    width: 360px;
+    height: 450px;
+    // opacity: 0;
+    position: absolute;
+    top: 140px;
+    float:right;
+    bottom: 0;
+    right:120px;
+    // margin: auto;
+  
+    opacity: 0;
+      overflow: hidden;
+      display: block;
+      // clear: both;
+      position: relative;
+      animation: fadeInRight 1s 1.2s;
+      animation-fill-mode: forwards;
+    .solid-logo {
+      position: absolute;
+      top: auto;
+      right: auto;
+      bottom: auto;
+      left: 0;
+      // margin: auto;
+      // transform: rotateZ(5deg) !important;
+      width: 100%;
+      
+      z-index: 1;
+    }
+  }
+  
+  
